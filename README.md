@@ -1,8 +1,12 @@
 # flutterHost
 Add flutter into an existing Android app. Use flutter as a module.
 
+Flutter 作为一个 Library Module 集成到现有的 Android 项目中。
 
-# Contents
+# build
+./build.sh
+
+# contents
 - Gaussian blur with flutter BackdropFilter.（[高斯模糊](https://github.com/zhaoya188/FlutterBlurDemo)）
   <div><img width="300" height="675" src="https://github.com/zhaoya188/FlutterBlurDemo/raw/master/ScreenShot.png"/></div>
 
