@@ -57,3 +57,10 @@ freeline.py
 freeline/
 freeline_project_description.json
 
+# flutter
+/Flutter/.flutter-plugins
+/Flutter/.packages
+/.idea/
+/Flutter/build/
+/Flutter/webview_flutter/android/build/
+/.gradletasknamecache

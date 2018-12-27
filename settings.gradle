@@ -1,1 +1,5 @@
 include ':app'
+
+// for flutter module
+setBinding(new Binding([gradle: this]))
+evaluate(new File('Flutter/include_flutter.groovy'))
