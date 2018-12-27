@@ -20,3 +20,7 @@ Flutter 作为一个 Library Module 集成到现有的 Android 项目中。
   <div><img width="782" height="595" src="https://github.com/zhaoya188/flutter_app/raw/master/screenshot/screenshot-native-embeded-flutter.png"/></div>
 
 - Other more
+
+
+# thanks
+[flutter_app](https://github.com/zhaoya188/flutter_app)
